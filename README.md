@@ -1,2 +1,2 @@
 # portfolio-website
-A project done to provide a brief description of my portfolio
+A project to provide a brief description of my portfolio
